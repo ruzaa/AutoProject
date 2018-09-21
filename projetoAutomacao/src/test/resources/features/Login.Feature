@@ -1,4 +1,4 @@
-Feature: Login esktop
+Feature: Login desktop
   As a QuintoAndar client
   I want to do my login
   So that I can see my personal data

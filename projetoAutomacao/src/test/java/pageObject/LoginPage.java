@@ -6,7 +6,7 @@ package pageObject;
 
 public class LoginPage {
     public void opensite() {
-        MyDriver.driver.get("www.quintoandar.com.br");
+        MyDriver.driver.get("https://www.quintoandar.com.br");
     }
 
     public void openWaffleMenu() {
